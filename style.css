@@ -1,0 +1,58 @@
+html {
+    background:url("images/boardBackground.jpg")
+    
+}
+
+body{
+    width: 600px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 20px;
+    background: rgb(255, 255, 255,0.9);
+    margin: 0px auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    background:rgb(60, 60, 60);
+    color: white;
+    border-radius: 20px;
+    
+    font-family: 'Kavivanar'
+      'Georgia', 'Times New Roman', Times, serif;
+
+}
+img{
+    width: 400px;
+    height: 300px; 
+}
+
+/*Classes can be used in multiple tags.*/
+.center, 
+h2{
+    text-align: center;
+    font-family: 'Kavivanar'
+      'Georgia', 'Times New Roman', Times, serif;
+    
+}
+#orange{
+    color: orange;
+}
+#blue{
+    color:blue;
+}
+#red{
+    color:red;
+}
+
+.kavivanar-regular {
+    font-family: "Kavivanar", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.montserrat{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
